@@ -36,8 +36,8 @@ if not os.path.exists(model_output_path):
 swapper = insightface.model_zoo.get_model(model_output_path, download=False, download_zip=False)
 
 # Load images
-img1_fn = 'images/image-11.png'
-img2_fn = 'images/image-22.jpg'
+img1_fn = 'images/aaaa.png'
+img2_fn = 'images/bbbb.png'
 # Swap faces between two images
 # swap_n_show(img1_fn, img2_fn, app, swapper)
 
