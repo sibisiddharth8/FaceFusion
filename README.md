@@ -1,6 +1,6 @@
 # 🎭 FaceFusion
 
-![Navbar - Desktop](/readme-images/FaceFusion%20-%20Sibi%20Siddharth%20S.jpeg)
+![FaceFusion Output](/readme-images/FaceFusion%20-%20Sibi%20Siddharth%20S.jpeg)
 
 **FaceFusion** is a powerful AI-driven tool that allows you to seamlessly swap faces and enhance image quality with just one click! It leverages the latest advancements in face enhancement and swapping technologies, providing professional-level results in seconds. Whether you're working in film, advertising, or content creation, FaceFusion delivers both precision and speed. 
 
