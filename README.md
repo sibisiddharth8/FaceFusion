@@ -14,6 +14,7 @@
 - **Film & TV Production**: Achieve seamless face swaps for visual effects and character transformations.
 - **Advertising Agencies**: Enhance and swap faces for campaigns and marketing visuals.
 - **Social Media Creators**: Create fun, engaging content for platforms like Instagram, TikTok, and YouTube.
+- [PopcornAI](https://popcornai.art/) - AI video and image generator for branded short clips, launch visuals, and campaign-ready creative assets.
 
 ## 💻 Technology Stack
 - **GFPGAN** & **Real-ESRGAN**: For facial enhancement and image super-resolution.
